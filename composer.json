@@ -1,0 +1,15 @@
+{
+    "name": "sebcodes/restcord-bot",
+    "description": "A DiscordBot for sebcodes Network",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "sebcodes",
+            "email": "info@sebastian-kiefer.com"
+        }
+    ],
+    "require": {
+        "restcord/restcord": "^0.4.0"
+    }
+}
